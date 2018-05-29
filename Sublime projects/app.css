@@ -1,0 +1,28 @@
+h1 {
+	color: #FF8000
+}
+h4 {color: #54206E}
+h4 {
+	background: #aa7733
+}
+
+body {
+	background: pink
+} 
+
+body {background: url(https://static1.squarespace.com/static/55f427f0e4b0fe0804dc7ede/56c5ba4a40261d141efac7fd/56c5bee7e32140c4f7023b11/1455800058903/KA_Needles_3_small.jpg?format=1000w);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+li {color: rgb(68,0,100);}
+
+h1 {
+	color: rgba(0,200,100, 1);
+	/*border-color: purple: 
+	border-width: 5px;
+	border-style: solid;*/
+	border: 5px solid purple;
+}
+
+/*borders have width color style*/

@@ -1,0 +1,29 @@
+/*Element
+li {
+	
+}
+/*class
+.hello {
+	
+}
+/*id
+#name {
+	
+}
+/*Star - effects everything. So if it enter on border, everything gets a border
+* {
+	
+}
+/*Descendant Selector - links tags; so you could select anything that is descended from a section, like all the anchor tag in a list.
+
+/*Adjacent Selector - slects elements that come after another element.
+
+/*Attribute Selector - a way to select elements based off any attribute
+
+/*nth of type - takes a number selects every nth of that number element. 
+
+/*Type selectors - least specific
+
+/*Class, Attribute, and Pseudo-Slass Selectors - at least 10x bigger than Type selctors
+
+/*ID Selectors - very specific

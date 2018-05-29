@@ -1,0 +1,25 @@
+MDN
+
+Css zen garden
+
+colours.neilorangepeel.com
+
+color picker
+
+*right click to be able to "inspect" a page and then I can see what the code is on the website.
+
+https://specificity.keegan.st/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+css font stack
+
+google fonts
+
+getbootstrap.com
+
+code.jquery.com
+
+unsplash

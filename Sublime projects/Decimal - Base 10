@@ -1,0 +1,33 @@
+Decimal - Base 10
+0,1,2,3,4,5,6,7,8,9
+
+999
+- - -
+Binary - Base 2
+0,1
+
+111
+- - -
+
+Hexadecimal - Base 16
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+FFF
+
+- - -
+
+#------
+First 2 correspond to how much red
+Next 2 correspond to how much green
+Last 2 correspond to how much blue
+
+
+
+RGB
+Range from 0-255
+color: rgb (0,255,0)
+
+RGBA
+Range from 0.0-1.0
+4 channels to fill out (lets us make colors transparent)
+color: rgba(11, 99, 150, 1)
